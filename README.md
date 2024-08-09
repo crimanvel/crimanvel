@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cristian Manuel</h1>
-<h3 align="center">A passionate Data Analyst and Back-End developer from Argentina</h3>
+<h3 align="center">A passionate IT Teacher and Full Stack Developer from Argentina living in Poland</h3>
 
-- 🌱 I’m currently improving my skills in:  **Python, POWER BI and TABLEAU**
-
-- 👯 I’m looking to collaborate on **Data Science and back-end projects**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
