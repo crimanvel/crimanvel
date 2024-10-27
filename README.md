@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cristian Manuel</h1>
+<h1 align="center">Hi 👋, I'm Manu</h1>
 <h3 align="center">A passionate IT Teacher and Full Stack Developer from Argentina living in Poland</h3>
 
 
