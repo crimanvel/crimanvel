@@ -53,6 +53,9 @@
 <a href="https://www.mongodb.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
 </a>
+<a href="https://scratch.mit.edu/" target="_blank"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Scratch_Logo.svg" alt="scratch" width="40" height="40"/> 
+</a>
 </p>
 
 
