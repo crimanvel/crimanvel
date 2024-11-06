@@ -38,8 +38,8 @@
   <a href="https://www.mysql.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a>
-  <a href="https://scratch.mit.edu/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Scratch_Logo.svg" alt="scratch" width="40" height="40"/> 
-  </a>
+ <a href="https://scratch.mit.edu/" target="_blank"> 
+  <img src="https://img.icons8.com/doodle/48/000000/scratch.png" alt="scratch" width="40" height="40"/> 
+</a>
 </p>
 
