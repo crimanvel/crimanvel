@@ -23,12 +23,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-</a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
-  
   <a href="https://getbootstrap.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a>
@@ -39,16 +38,15 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/>
   </a>
   <a href="https://vitejs.dev/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original-wordmark.svg" alt="vite" width="40" height="40"/>
-</a>
-<a href="https://www.npmjs.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
-</a>
-<a href="https://www.figma.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original-wordmark.svg" alt="vite" width="40" height="40"/>
+  </a>
+  <a href="https://www.npmjs.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
   </a>
 </p>
-
 
 <h3 align="center">Backend:</h3>
 <p align="center">
@@ -64,9 +62,6 @@
   <a href="https://dotnet.microsoft.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   </a>
-  <a href="https://isocpp.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-</a>
   <a href="https://nodejs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
@@ -82,15 +77,12 @@
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
-  <a href="https://isocpp.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-</a>
-    <a href="https://www.docker.com/" target="_blank">
+  <a href="https://www.docker.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
   <a href="https://aws.amazon.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-</a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  </a>
 </p>
 
 <h3 align="center">WorkTeam</h3>
@@ -108,23 +100,19 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
   <a href="https://github.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-</a>
-
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+  </a>
   <a href="https://www.notion.so/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg" alt="notion" width="40" height="40"/>
-</a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg" alt="notion" width="40" height="40"/>
+  </a>
   <a href="https://www.microsoft.com/en/microsoft-teams/group-chat-software" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/microsoft-teams.png" alt="microsoft-teams" width="40" height="40"/>
-</a>
+    <img src="https://img.icons8.com/color/48/000000/microsoft-teams.png" alt="microsoft-teams" width="40" height="40"/>
+  </a>
   <a href="https://workspace.google.com/" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/google-drive--v2.png" alt="google workspace" width="40" height="40"/>
-</a>
-<a href="https://miro.com/" target="_blank">
-  <img src="https://img.icons8.com/fluency/48/000000/miro.png" alt="miro" width="40" height="40"/>
-</a>
-
+    <img src="https://img.icons8.com/color/48/000000/google-drive--v2.png" alt="google workspace" width="40" height="40"/>
+  </a>
 </p>
+
 <h3 align="center">Others</h3>
 <p align="center">
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
@@ -133,19 +121,13 @@
   <a href="https://scratch.mit.edu/" target="_blank"> 
     <img src="https://img.icons8.com/doodle/48/000000/scratch.png" alt="scratch" width="40" height="40"/> 
   </a>
-    <a href="https://www.linux.org/" target="_blank"> 
+  <a href="https://www.linux.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Power_BI_Logo.png" alt="power bi" width="40" height="40"/>
-</a>
- <a href="https://www.sap.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" alt="sap" width="40" height="40"/>
   </a>
   <a href="https://www.odoo.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/odoo/odoo-icon.svg" alt="odoo" width="40" height="40"/>
   </a>
-  <a href="https://www.r-project.org/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo_2013.png" alt="R" width="40" height="40"/>
-</a>
+  <a href="https://www.sap.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" alt="sap" width="40" height="40"/>
+  </a>
 </p>
