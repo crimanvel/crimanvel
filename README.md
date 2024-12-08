@@ -55,9 +55,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
 </a>
 </p>
-<p align="center">
-<a href="https://github.com/crimanvel">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=crimanvel&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=crimanvel&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
