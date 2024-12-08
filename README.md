@@ -42,6 +42,10 @@
   <a href="https://wordpress.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/>
   </a>
+  <a href="https://vitejs.dev/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original-wordmark.svg" alt="vite" width="40" height="40"/>
+</a>
+
 </p>
 
 
