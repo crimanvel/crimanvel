@@ -3,7 +3,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
-- 💼 [LinkedIn](https://www.linkedin.com/in/juan) ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)
+- 💼 [LinkedIn](https://www.linkedin.com/in/juan) ![LinkedIn Badge]([https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white](https://media.licdn.com/dms/image/v2/D4D16AQGsIAeJUXRCcA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1708233573815?e=1739404800&v=beta&t=dI2a_z2yUO9L09bYi8i-Do7CnpzSJMAaKkF4OdFvas0)
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-manuel-veliz-/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cristianmanuelveliz@gmail.com)
