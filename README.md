@@ -57,11 +57,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
 </a>
 </p>
-### ⚙️ &nbsp;GitHub Analytics
+⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/dylannavarro97">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dylannavarro97&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dylannavarro97&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=crimanvel&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=crimanvel&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
