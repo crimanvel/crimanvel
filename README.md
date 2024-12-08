@@ -115,7 +115,7 @@
     <img src="https://img.icons8.com/color/48/000000/google-drive--v2.png" alt="google workspace" width="40" height="40"/>
   </a>
   <a href="https://miro.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/miro.png" alt="miro" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios/452/miro.png" alt="Miro" width="40" height="40"/>
   </a>
 </p>
 
