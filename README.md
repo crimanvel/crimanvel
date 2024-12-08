@@ -136,4 +136,7 @@
   <a href="https://www.sap.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" alt="sap" width="40" height="40"/>
   </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="power-bi" width="40" height="40"/>
+</a>
 </p>
