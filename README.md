@@ -71,9 +71,6 @@
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
-  <a href="https://laravel.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Laravel.svg" alt="laravel" width="40" height="40"/>
-</a>
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
@@ -124,9 +121,6 @@
 </a>
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/>
-</a>
-<a href="https://www.coreldraw.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/CorelDraw_Logo.svg" alt="coreldraw" width="40" height="40"/>
 </a>
 <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="illustrator" width="40" height="40"/>
