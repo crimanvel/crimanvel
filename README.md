@@ -37,9 +37,6 @@
   <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwindcss" width="40" height="40"/>
   </a>
-  <a href="https://wordpress.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/>
-  </a>
   <a href="https://vitejs.dev/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original-wordmark.svg" alt="vite" width="40" height="40"/>
   </a>
@@ -126,6 +123,9 @@
  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="Microsoft Excel" width="40" height="40"/>
 </a>
+  <a href="https://wordpress.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/>
+  </a>
   <a href="https://scratch.mit.edu/" target="_blank"> 
     <img src="https://img.icons8.com/doodle/48/000000/scratch.png" alt="scratch" width="40" height="40"/> 
   </a>
