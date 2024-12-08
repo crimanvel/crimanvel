@@ -40,10 +40,6 @@
   <a href="https://vitejs.dev/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original-wordmark.svg" alt="vite" width="40" height="40"/>
   </a>
-
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
-  </a>
 </p>
 
 <h3 align="center">Backend:</h3>
@@ -115,6 +111,29 @@
   <a href="https://workspace.google.com/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/google-drive--v2.png" alt="google workspace" width="40" height="40"/>
   </a>
+
+</p>
+<h3 align="center">Desing & Edition:</h3>
+<p align="center">
+  
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
+  </a>
+<a href="https://www.canva.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>
+</a>
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/>
+</a>
+<a href="https://www.coreldraw.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/coreldraw/coreldraw-original.svg" alt="coreldraw" width="40" height="40"/>
+</a>
+<a href="https://www.adobe.com/products/illustrator.html" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="illustrator" width="40" height="40"/>
+</a>
+<a href="https://www.adobe.com/products/premiere.html" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" alt="premierepro" width="40" height="40"/>
+</a>
 
 </p>
 
