@@ -128,9 +128,6 @@
   <a href="https://www.linux.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a>
-<a href="https://www.odoo.com/" target="_blank">
-  <img src="https://img.icons8.com/external-flat-juicy-fish/50/000000/external-odoo-business-and-finance-flat-flat-juicy-fish.png" alt="Odoo" width="40" height="40"/>
-</a>
   <a href="https://www.sap.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" alt="sap" width="40" height="40"/>
   </a>
