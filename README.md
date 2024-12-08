@@ -8,14 +8,9 @@
   <a href="mailto:cristianmanuelveliz@gmail.com" style="display: inline-block; margin-right: 5px;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://linktr.ee/manuveliz" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
-  </a>
 </div>
 
 <h2 align="center">Skills:</h2>
-
-
 <h3 align="center">Frontend:</h3>
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -55,7 +50,7 @@
 </p>
 
 
-<h3 align="center">Backend:</h4>
+<h3 align="center">Backend:</h3>
 <p align="center">
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
@@ -90,9 +85,12 @@
   <a href="https://isocpp.org/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 </a>
+    <a href="https://www.docker.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  </a>
 </p>
 
-<h3 align="center">WorkTeam</h4>
+<h3 align="center">WorkTeam</h3>
 <p align="center">
   <a href="https://www.atlassian.com/software/jira" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/>
@@ -103,19 +101,25 @@
   <a href="https://trello.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" alt="trello" width="40" height="40"/>
   </a>
-  <a href="https://www.linux.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a>
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
+  <a href="https://www.notion.so/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg" alt="notion" width="40" height="40"/>
+</a>
+  <a href="https://www.microsoft.com/en/microsoft-teams/group-chat-software" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/microsoft-teams.png" alt="microsoft-teams" width="40" height="40"/>
+</a>
+</p>
+<h3 align="center"></h3>
+<p align="center">
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="excel" width="40" height="40"/>
   </a>
   <a href="https://scratch.mit.edu/" target="_blank"> 
     <img src="https://img.icons8.com/doodle/48/000000/scratch.png" alt="scratch" width="40" height="40"/> 
   </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+    <a href="https://www.linux.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a>
-</p>
+
