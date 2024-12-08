@@ -121,9 +121,9 @@
 
 <h3 align="center">Others:</h3>
 <p align="center">
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="excel" width="40" height="40"/>
-  </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Microsoft_Office_logo_%282019%29.svg/1024px-Microsoft_Office_logo_%282019%29.svg.png" alt="Microsoft Office" width="40" height="40"/>
+</a>
   <a href="https://scratch.mit.edu/" target="_blank"> 
     <img src="https://img.icons8.com/doodle/48/000000/scratch.png" alt="scratch" width="40" height="40"/> 
   </a>
