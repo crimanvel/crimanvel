@@ -130,9 +130,9 @@
   <a href="https://www.linux.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a>
-  <a href="https://www.odoo.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/odoo/odoo-icon.svg" alt="odoo" width="40" height="40"/>
-  </a>
+<a href="https://www.odoo.com/" target="_blank">
+  <img src="https://img.icons8.com/ios/50/000000/odoo.png" alt="odoo" width="40" height="40"/>
+</a>
   <a href="https://www.sap.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" alt="sap" width="40" height="40"/>
   </a>
