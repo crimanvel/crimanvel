@@ -126,7 +126,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/>
 </a>
 <a href="https://www.coreldraw.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/coreldraw/coreldraw-original.svg" alt="coreldraw" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/CorelDraw_Logo.svg/1200px-CorelDraw_Logo.svg.png" alt="coreldraw" width="40" height="40"/>
 </a>
 <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="illustrator" width="40" height="40"/>
