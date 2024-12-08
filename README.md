@@ -3,6 +3,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
+- 💼 [LinkedIn](https://www.linkedin.com/in/juan) ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-manuel-veliz-/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cristianmanuelveliz@gmail.com)
