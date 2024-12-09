@@ -129,6 +129,9 @@
   <a href="https://wordpress.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/>
   </a>
+  <a href="https://www.postman.com/" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/> 
+</a>
   <a href="https://scratch.mit.edu/" target="_blank"> 
     <img src="https://img.icons8.com/doodle/48/000000/scratch.png" alt="scratch" width="40" height="40"/> 
   </a>
